@@ -5,11 +5,13 @@
 
 [build.environment]
     DART_SASS_VERSION = "1.69.5"
-    HUGO_VERSION = "0.120.3"
     HUGO_ENV = "production"
     HUGO_ENABLEGITINFO = "true"
     NODE_VERSION = "18.18.2"
     NPM_VERSION = "9.8.1"
+   HUGO_VERSION = "0.95.0"
+  HUGO_THEME = "repo"
+  HUGO_BASEURL = "/"
 # toml-docs-end netlify
 
 [[headers]]
