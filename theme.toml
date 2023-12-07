@@ -1,13 +1,12 @@
 name = "Hinode"
 license = "MIT"
 licenselink = "https://github.com/gethinode/hinode/blob/main/LICENSE"
-description = "A clean documentation and blog theme for your Hugo site based on Bootstrap 5."
-homepage = "https://gethinode.com"
-demosite = "https://demo.gethinode.com"
-tags = ["blog", "documentation", "minimal", "modern", "customizable", "search", "bootstrap"]
-features = ["security aware", "fast by default", "seo-ready", "development tools", "bootstrap framework", "netlify-ready", "full text search", "page layouts", "versioned documentation"]
+description = "All about AI for 6G"
+homepage = "https://aiforwireless.org"
+
+tags = ["5G", "AI", "6G"]
 min_version = "0.120.0"
 
 [author]
-  name = "Mark Dumay"
-  homepage = "https://github.com/markdumay"
+  name = "Santosh Ganji"
+  homepage = "https://github.com/shotsan"
