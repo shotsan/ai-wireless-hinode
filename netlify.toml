@@ -1,6 +1,6 @@
 # toml-docs-start netlify
 [build]
-    publish = "exampleSite/public"
+    publish = "exampleSite"
     command = "npm run build:example"
 
 [build.environment]
