@@ -1,6 +1,6 @@
 ---
-title: About
-description: Hello, I'm Santosh. I am building Cellular Networks for the past 10 years. 
+title: Hello
+description: I'm Santosh. I am building Cellular Networks for the past 10 years. 
 ---
 I started my learnings from 4G in 2013, contributing to timing synchronization and very recently I got my PhD in 2023. I love building wireless networks. 
 I contributed to Cellular Standards, built modems, hack modems too!. My work is demonstrated at prestigious Mobile World Congress twice!.
