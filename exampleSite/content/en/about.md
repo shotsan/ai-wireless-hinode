@@ -1,33 +1,20 @@
 ---
 title: About
-description: Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5.
-date: 2022-04-11
-updated: 2023-08-02
-showComments: false
+description: Hello, I'm Santosh. I am building Cellular Networks for the past 10 years. I started my learnings from 4G, contributing
+to timing synchronization and very recently I got my PhD. I love building wireless networks. I contributed to Cellular Standards, built
+modems, hack modems too!. My work is demonstrated at prestigious Mobile World Congress twice!. Towards the end of my PhD, AI fever took over
+and Telecom industry is at crossroads of whether to go Open or Closed. 5G almost was an experimental standard. Hmm.. Let's be optimistic and build a better future for 6G "Together"
+
 ---
 
-{{< image src="/img/logo_var.svg#logo" class="img-fluid w-50" wrapper="text-center" >}}
+Few of my accomplishments
 
-{{< card-group class="text-center border-0" padding="3" >}}
-    {{< card title="Bootstrap framework" icon="fab bootstrap" >}}
-        Build fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files.
-    {{< /card >}}
-    {{< card title="Full text search" icon="fas magnifying-glass" >}}
-        Search your site with FlexSearch, a full-text search library with zero dependencies.
-    {{< /card >}}
-    {{< card title="Development tools" icon="fas code" >}}
-        Use Node Package Manager to automate the build process and to keep track of dependencies.
-    {{< /card >}}
-{{< /card-group >}}
-
-Additional features include:
-
-* Switching between light mode and dark mode
-* Support for multiple languages
-* Reusable Bootstrap components through configurable shortcodes and partials
-* Versioned documentation, including sidebar navigation and version switcher
-* Embedded comments through light-weight integration with GitHub via [utteranc.es]({{< param "links.utterances" >}})
-* Reponsive image handling for multiple screen sizes and resolutions
-* Optimized search results, scoring 100 points for SEO on [PageSpeed Insights]({{< param "links.pagespeed" >}})
-* Secure by default, scoring A+ on [Mozilla Observatory test]({{< param "links.observatory" >}})
-{.tickmark}
+* Built world's first NB-IoT all software modem, 2016
+* Contributed to Narrow-band IoT standards
+* Solved mmWave beam-management 
+* Key player in IoT startup
+* Built a startup in mmWave 5G
+* Ask me anything in Cellular Standards
+* Hacked several modems
+* Built wireless man-in-the-middle in 5G
+ 
