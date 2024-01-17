@@ -1,12 +1,12 @@
 # toml-docs-start main
-title = "Hinode"
-copyright = "Copyright © 2023 Mark Dumay."
+title = "Ai for Wireless"
+copyright = "Copyright © 2023 Santosh Ganji."
 paginate = 9
 enableGitInfo = true
 # toml-docs-end main
 
 # additional settings
-baseURL = "https://example.com/"
+baseURL = "https://airforwireless.org"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
